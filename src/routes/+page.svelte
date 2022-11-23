@@ -10,6 +10,7 @@
 <Formula description="Total Hemlock" formula="=COUNT(C:C)"/>
 <Formula description="Average Cedar Height" formula="=SUMIFS(E:E,B:B, 1)/COUNT(B:B)"/>
 <Formula description="Average Hemlock Height" formula="=SUMIFS(E:E,C:C, 1)/COUNT(C:C)"/>
+<Formula description="Average Heading" formula="=SUM(E:E)/COUNT(E:E)"/>
 </div>
 
 <style>
