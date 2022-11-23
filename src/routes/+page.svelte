@@ -3,7 +3,6 @@
 
     
 </script>
-
 <div>
 <h1>Helpful Excel Formulas</h1>
 <Formula description="Height Trig Calculation" formula="=TAN(RADIANS(D2))"/>
@@ -15,7 +14,7 @@
 
 <style>
     div{
-        margin-left: auto;
+        padding-top: 40px;
         height: 100%;
         width: 100%;
         display: flex;
